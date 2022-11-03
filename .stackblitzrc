@@ -1,0 +1,9 @@
+{
+  "installDependencies": true,
+  "startCommand": "npm start",
+  "env": {
+    "ENABLE_CJS_IMPORTS": true,
+    "REACT_APP_PUBLIC_COSMIC_BUCKET_SLUG": "marketplace-production",
+    "REACT_APP_PUBLIC_COSMIC_READ_KEY": "gX6q1ZzIa6jstOjFeL6rHb0XaNETWQ4gNrbwgFG9k172uFopjy"
+  }
+}
